@@ -1,7 +1,13 @@
 ✔ criar um componente login @done(21-10-14 09:49)
 ✔ criar um componente cadastrar @done(21-10-14 09:49)
 ✔ criar um componente Home para conter menu e lista de contatos @done(21-10-14 09:49)
-☐ fazer a navegacao entre os componentes
+✔ fazer a navegacao entre os componentes @done(21-10-14 10:56)
+☐ criar objeto com os dados a serem enviados para o endpoint
+☐ criar um servico Auth
+☐ Em servico Auth, criar o metodo responsavel por enviar dados para cadastro
+☐ enviar os dados do cadastro ao endpoint
+☐ tratar o retorna
+☐ mostrar msg de erro quando senha e confirmacao de senha nao forem iguais
 
 
 
